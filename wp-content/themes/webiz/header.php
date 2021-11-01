@@ -51,19 +51,19 @@
               "
             >
               <li class="nav_list-item">
-                <a href="https://staging.webiz.com/">Home</a>
+                <a href="https://localhost/Webiz/">Home</a>
               </li>
               <li class="nav_list-item">
-                <a href="https://staging.webiz.com/why-webiz/">Why Webiz</a>
+                <a href="https://localhost/Webiz/why-webiz/">Why Webiz</a>
               </li>
               <li class="nav_list-item">
                 <a href="#">Webiz Platform</a>
               </li>
               <li class="nav_list-item">
-                <a href="https://staging.webiz.com/about-us/">About Us</a>
+                <a href="https://localhost/Webiz/about-us/">About Us</a>
               </li>
               <li class="nav_list-item">
-                <a href="https://staging.webiz.com/clients/">Clients</a>
+                <a href="https://localhost/Webiz/clients/">Clients</a>
               </li>
             </ul>
           </nav>
