@@ -200,7 +200,7 @@
                       <div class="meet-webiz-title">
                         <h4>So much more than a job. Meet Webiz.</h4>
                       </div>
-                      <div class="meet-webiz-subtitle">
+                      <div class="home-meet-webiz-subtitle">
                         <p>
                           Webiz is changing the face of digital community. We’ll give you the
                           opportunity to work with international companies and bring your
