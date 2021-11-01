@@ -20,9 +20,9 @@
           <button class="get-started-btn">Get started here</button>
         </div>
 
-        <!-- <div class="clients-hire-img">
+        <div class="clients-hire-img">
           <img src="<?php echo get_template_directory_uri(); ?>/images/Clients-Hire.png" />
-        </div> -->
+        </div>
       </div>
 
       <div class="clients-explainer container">
