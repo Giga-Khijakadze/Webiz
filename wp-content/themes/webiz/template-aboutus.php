@@ -432,7 +432,7 @@
 
 </div>
 
-<div class="meet-webiz container-fluid">
+<div class="about-meet-webiz container-fluid">
     <div class="meet-webiz-container">
       <div class="meet-webiz-title">
         <h4>So much more than a job. Meet Webiz.</h4>
