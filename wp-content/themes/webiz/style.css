@@ -2036,6 +2036,17 @@ main{
     text-align: center;
 }
 
+.home-meet-webiz-subtitle p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    font-weight: 400;
+    max-width: 557px;
+    margin: 0px;
+    padding-bottom: 29px;
+}
 .meet-webiz-subtitle p {
     font-style: normal;
     font-weight: normal;
@@ -2117,6 +2128,10 @@ main{
         padding-bottom: 14px;
     }
     .meet-webiz-subtitle p {
+        padding-bottom: 40px;
+        max-width: 423px;
+    }
+    .home-meet-webiz-subtitle p {
         padding-bottom: 40px;
         max-width: 423px;
     }
@@ -3025,6 +3040,17 @@ main{
     text-align: center;
 }
 
+.home-meet-webiz-subtitle p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    font-weight: 400;
+    max-width: 557px;
+    margin: 0px;
+    padding-bottom: 29px;
+}
 .meet-webiz-subtitle p {
     font-style: normal;
     font-weight: normal;
@@ -3360,6 +3386,10 @@ main{
         padding-bottom: 40px;
         max-width: 423px;
     }
+    .home-meet-webiz-subtitle p {
+        padding-bottom: 40px;
+        max-width: 423px;
+    }
     .join-webiz-btn {
         padding: 10px 24px;
         margin-bottom: 14px;
@@ -3449,6 +3479,9 @@ main{
     .meet-webiz-subtitle p {
         padding-bottom: 0;
     }
+    .home-meet-webiz-subtitle p {
+        padding-bottom: 0;
+    }
     .polygon-sm {
         display: none;
     }
@@ -3488,6 +3521,10 @@ main{
         line-height: 27px;
     }
     .meet-webiz-subtitle p {
+        font-size: 14px;
+        line-height: 21px;
+    }
+    .home-meet-webiz-subtitle p {
         font-size: 14px;
         line-height: 21px;
     }
