@@ -12,7 +12,7 @@
           <div class="clients-hire-description">
             <p>
               Webiz brings top Israeli corporations and startups together with
-              Georgia’s best tech minds.
+              Georgia’s best tech
             </p>
           </div>
         </div>
