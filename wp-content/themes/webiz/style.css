@@ -278,7 +278,7 @@ main{
     margin-left: 21px;
 }
 
-.greeting-title {
+/* .greeting-title {
     width: 539px;
     height: 42px;
     left: 394px;
@@ -290,7 +290,7 @@ main{
     line-height: 42px;
     color: #000000;
     margin-bottom: 0;
-}
+} */
 
 .greeting-description {
     width: 555px;
@@ -2381,7 +2381,7 @@ main{
     padding-left: 32px;
 }
 
-.greeting-title {
+.home-greeting-title {
     font-family: "Poppins";
     font-style: normal;
     font-weight: normal;
@@ -3174,7 +3174,7 @@ main{
     .greeting-icons-wrapper {
         padding-right: 0;
     }
-    .greeting-title {
+    .home-greeting-title {
         font-size: 24px;
     }
     .demo-container {
@@ -3189,7 +3189,7 @@ main{
     .greeting-text-wrapper {
         padding-top: 55px;
     }
-    .greeting-title {
+    .home-greeting-title {
         font-size: 28px;
     }
     .greeting-left,
@@ -3240,7 +3240,7 @@ main{
     .greeting-text-wrapper {
         padding-top: 55px;
     }
-    .greeting-title {
+    .home-greeting-title {
         font-size: 18px;
     }
     .greeting-p {
@@ -3583,7 +3583,7 @@ main{
         padding-top: 30px;
         padding-left: 0;
     }
-    .greeting-title {
+    .home-greeting-title {
         font-size: 16px;
         text-align: center;
     }

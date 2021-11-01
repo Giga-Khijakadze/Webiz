@@ -15,7 +15,7 @@
                             </div>
                             <div class="greeting-text-wrapper">
                                 <div class="greeting-title-wrapper">
-                                    <h2 class="greeting-title">So much more than a job. Meet Webiz.</h2>
+                                    <h2 class="home-greeting-title">So much more than a job. Meet Webiz.</h2>
                                 </div>
                                 <div class="greeting-p-wrapper">
                                     <p class="greeting-p">Webiz is changing the face of digital community. 
