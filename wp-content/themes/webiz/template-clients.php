@@ -138,7 +138,7 @@
         </div>
       </div>
 
-      <div class="clinets-meet-webiz container-fluid">
+      <div class="meet-webiz container-fluid">
         <div class="meet-webiz-container">
           <div class="meet-webiz-title">
             <h4>So much more than a job. Meet Webiz.</h4>
