@@ -158,7 +158,7 @@
                     </div>
                 </section>
                 <section class="home-about-section container-fluid">
-                    <div class="demo-container">
+                    <div class="home-demo-container">
                         <div class="demo-wrapper">
                            <div class="demo-button-wrapper">
                                <button class="demo-button">Try Demo</button>

@@ -2660,7 +2660,7 @@ main{
     justify-content: center;
 }
 
-.demo-container {
+.home-demo-container {
     width: 100%;
     position: absolute;
     top: 53%
@@ -3177,7 +3177,7 @@ main{
     .home-greeting-title {
         font-size: 24px;
     }
-    .demo-container {
+    .home-demo-container {
         top: 53.9%
     }
     .next-arrow {
@@ -3567,7 +3567,7 @@ main{
     .meet-webiz {
         margin-top: -96px;
     }
-    .demo-container {
+    .home-demo-container {
         top: 55%
     }
     .gallery-text {
