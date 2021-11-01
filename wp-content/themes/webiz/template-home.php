@@ -62,7 +62,7 @@
                     </div>
                 </div>  
                 <section class="benefits-wrapper container-fluid">
-                    <div class="benefits container-md container-fluid">
+                    <div class="home-benefits container-md container-fluid">
                         <div class="row justify-content-center justify-content-md-start">
                             <div class="benefit-left-dots-wrapper">
                                 <img src="<?php echo get_template_directory_uri(); ?>/images/combined-dots.svg" alt="" class="benefit-left-dots">
