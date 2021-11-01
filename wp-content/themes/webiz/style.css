@@ -728,7 +728,6 @@ main{
     color: #fff;
 }
 
-.view-demo-btn--white {}
 
 .view-demo-btn--orange {
     background-color: #f2622b;
@@ -754,11 +753,6 @@ main{
 
 .demo-buttons {
     margin-bottom: 36px;
-}
-
-.demo-img {
-    /* width: 476px;
-  height: 269px; */
 }
 
 .demo-img img {
@@ -1021,7 +1015,6 @@ main{
     position: absolute;
     min-height: 720px;
     display: flex;
-    al
 }
 
 .about-webiz-subtitle {
@@ -1278,10 +1271,6 @@ main{
     margin: 0px;
 }
 
-.managment-director-description {
-    /* min-height: 52px; */
-}
-
 .webiz-numbers--wrapper {
     max-width: 880px;
 }
@@ -1300,10 +1289,6 @@ main{
     align-items: center;
 }
 
-.clients-hire-img {
-    /* position: absolute; */
-    /* right: 0; */
-}
 
 .get-started-btn {
     border-radius: 12px;
@@ -1620,7 +1605,7 @@ main{
 }
 
 .slider__text-title {
-    font-family: Poppins;
+    font-family: "Poppins";
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
@@ -1630,11 +1615,6 @@ main{
 }
 
 
-/* Why Webiz */
-
-.signin__page-group-wrapper img {
-    /* width: 100%; */
-}
 
 @-webkit-keyframes fade {
     from {
