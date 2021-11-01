@@ -2467,6 +2467,7 @@
 
 .greeting-button {
     background: rgba(242, 98, 43, 0.2);
+    border: none;
     border-radius: 12px;
     font-family: "Poppins";
     font-style: normal;
