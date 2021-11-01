@@ -3030,6 +3030,15 @@ main{
     align-items: center;
     position: relative;
 }
+.clients-about-meet-webiz {
+    padding: 127px 0px;
+    background: #f6b12d;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
 
 .meet-webiz-container {
     z-index: 1;
