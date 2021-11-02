@@ -3,7 +3,7 @@
 <main class="about-us-main">
         <div class="about-webiz-container container">
             <div class="about-webiz-polygon"><img src="<?php echo get_template_directory_uri(); ?>/images/About-Polygon.svg"></div>
-            <!-- <div class="about-webiz-dots"><img src="<?php echo get_template_directory_uri(); ?>/images/About-Dots.svg"></div> -->
+            <div class="about-webiz-dots"><img src="<?php echo get_template_directory_uri(); ?>/images/About-Dots.svg"></div>
         <div class="about-webiz col-11 col-md-11 col-lg-8 ">
             <div class="about-webiz-title">
                 <h3>About Webiz</h3>
