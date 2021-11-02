@@ -1015,6 +1015,10 @@ main{
     position: absolute;
     min-height: 720px;
     display: flex;
+    align-items: flex-start;
+    margin-top: -255
+px
+;
 }
 
 .about-webiz-subtitle {
