@@ -127,7 +127,7 @@
                       "
                       href="#"
                     >
-                      <img class="join-btn-img" src="<?php echo get_template_directory_uri(); ?><?php echo get_template_directory_uri(); ?>./images/Vector.png" alt="" />
+                      <img class="join-btn-img" src="<?php echo get_template_directory_uri(); ?>./images/Vector.png" alt="" />
                       <h5 class="join-btn-text" href="#">Join Webiz Today</h5>
                     </a>
                   </div>
